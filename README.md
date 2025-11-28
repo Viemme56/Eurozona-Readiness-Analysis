@@ -5,13 +5,9 @@ Analisi del livello di readiness e dell'adozione interna dell'euro digitale da p
 Questo progetto, nato dallo sviluppo della mia tesi magistrale, contiene un report sviluppato in **Microsoft Power BI** con l’obiettivo di analizzare e mappare il grado di *readiness* dei singoli Stati membri dell’Unione Europea con lo scopo di comprendere quanto i diversi Paesi europei siano effettivamente pronti ad accogliere e integrare l’Euro Digitale all’interno dei propri sistemi economici, tecnologici e istituzionali.
 
 
-## Cosa si intende per *Readiness*
-Per readiness si fa riferimento al livello di preparazione, predisposizione e capacità di adattamento dell’Eurozona dinnanzi a questa imminente evoluzione digitale e monetaria.
-
-
-## Cosa è l'*Euro Digitale*?
-L’Euro Digitale è una valuta digitale emessa dalla Banca Centrale Europea (BCE), progettato per affiancare il contante e garantire ai cittadini e imprese un mezzo di pagamento pubblico, sicuro e accessibile nell’era digitale, che sia alternativo ai circuiti privati.
-La sua introduzione, avviata nel 2020 e prevista al pubblico entro il 2029, non solo rappresenta un’evoluzione tecnologica capace di ridefinire i processi di Digital Accounting, ma rappresenta soprattutto una strategia politica e geopolitica per rafforzare la sovranità economica europea, in contesto globale dominato da grandi player privati, crypto-asset e da valute digitali sovrane straniere.
+## Cosa è l'*Euro Digitale* e cosa si intende per *Readiness*?
+- L’Euro Digitale è una valuta digitale emessa dalla Banca Centrale Europea (BCE), progettato per affiancare il contante e garantire ai cittadini e imprese un mezzo di pagamento pubblico, sicuro e accessibile nell’era digitale, che sia alternativo ai circuiti privati. La sua introduzione, avviata nel 2020 e prevista al pubblico entro il 2029, non solo rappresenta un’evoluzione tecnologica capace di ridefinire i processi di Digital Accounting, ma rappresenta soprattutto una strategia politica e geopolitica per rafforzare la sovranità economica europea, in contesto globale dominato da grandi player privati, crypto-asset e da valute digitali sovrane straniere.
+- Per readiness si fa riferimento al livello di preparazione, predisposizione e capacità di adattamento dell’Eurozona dinnanzi a questa imminente evoluzione digitale e monetaria.
 
 
 ## Metodologia dell'analisi
