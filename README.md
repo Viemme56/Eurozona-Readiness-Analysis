@@ -9,6 +9,11 @@ Questo progetto, nato dallo sviluppo della mia tesi magistrale, contiene un repo
 Per readiness si fa riferimento al livello di preparazione, predisposizione e capacità di adattamento dell’Eurozona dinnanzi a questa imminente evoluzione digitale e monetaria.
 
 
+## Cosa è l'*Euro Digitale*?
+L’Euro Digitale è una valuta digitale emessa dalla Banca Centrale Europea (BCE), progettato per affiancare il contante e garantire ai cittadini e imprese un mezzo di pagamento pubblico, sicuro e accessibile nell’era digitale, che sia alternativo ai circuiti privati.
+La sua introduzione, avviata nel 2020 e prevista al pubblico entro il 2029, non solo rappresenta un’evoluzione tecnologica capace di ridefinire i processi di Digital Accounting, ma rappresenta soprattutto una strategia politica e geopolitica per rafforzare la sovranità economica europea, in contesto globale dominato da grandi player privati, crypto-asset e da valute digitali sovrane straniere.
+
+
 ## Metodologia dell'analisi
 Per rispondere a questo obiettivo ho dato luogo ad un’**analisi comparativa multidimensionale**, costruendo un dataset originale che aggrega dati aggiornati al 2024 provenienti da fonti istituzionali europee con l’obiettivo di mappare il livello di readiness dei singoli Stati membri lungo tre dimensioni principali:
 - readiness digitale e finanziaria;
@@ -25,9 +30,8 @@ Questo approccio mi ha permesso di evidenziare le differenze strutturali tra i P
 
 ## Risultati dell'analisi
 Dai risultati emerge un’Europa fortemente eterogenea, che ho suddiviso in tre cluster principali:
-1. I **Leaders**, costituiti soprattutto dai Paesi del Nord Europa come Svezia, Danimarca o Paesi Bassi, caratterizzati da infrastrutture digitali avanzate e da un’elevata digitalizzazione sia dei cittadini che delle imprese & ampia fiducia nelle istituzioni → Per questi Stati, l’Euro Digitale
-costituirebbe una naturale evoluzione del proprio ecosistema finanziario, già fortemente orientato all’innovazione.
-2. I **Followers**, che racchiude la maggior parte dei paesi in particolare dell’Europa Centrale tra cui Germania, Francia o Spagna, sono economie mature ma con accese resistenze culturali all’abbandono del contante e preoccupazioni per la privacy → che potrebbe quindi rallentare l’adozione della moneta digitale europea.
+1. I **Leaders**, costituiti soprattutto dai Paesi del Nord Europa come Svezia, Danimarca o Paesi Bassi, caratterizzati da infrastrutture digitali avanzate e da un’elevata digitalizzazione sia dei cittadini che delle imprese & ampia fiducia nelle istituzioni. Per questi Stati, l’Euro Digitale costituirebbe una naturale evoluzione del proprio ecosistema finanziario, già fortemente orientato all’innovazione.
+2. I **Followers**, che racchiude la maggior parte dei paesi in particolare dell’Europa Centrale tra cui Germania, Francia o Spagna, sono economie mature ma con accese resistenze culturali all’abbandono del contante e preoccupazioni per la privacy. Ciò potrebbe quindi rallentare l’adozione della moneta digitale europea.
 3. I **Latecomers**, che racchiude paesi dell’Europa Orientale e del Sud come Grecia, Romania o l’Italia stessa, presentano ritardi strutturali e culturali più marcati: l’uso del contante resta predominante, la digitalizzazione è limitata e le infrastrutture risultano deboli, rendendo più complesso il processo di transizione verso l’Euro Digitale.
 
 
